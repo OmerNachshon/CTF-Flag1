@@ -1,0 +1,12 @@
+I want to join the Judo team in the picture ,in order to become badass like them!
+help me find the telephone number of the site that's required for registration. 
+
+
+Remember to look closely and carefully, there might be something you are missing! 
+
+
+answer format: afikoman{0523212312} 
+
+NOTE: The flag is phone number of the trainer that's in charge of the class
+
+
